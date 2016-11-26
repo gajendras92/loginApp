@@ -5,7 +5,7 @@ encrypt password.
 # steps for running app
 1-  [install meteor](https://www.meteor.com/install)<br />
 2 - install all packages given blow
-# use packages
+# packages
 1-angular<br />
 2-angularui:angular-ui-route<br />
 3-accounts-password<br />
