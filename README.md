@@ -2,9 +2,9 @@
   
 this is simple login, signup and forgot passsword app in angular-meteor.we use account for user login and signup. And account-password for 
 encrypt password.
-# step for run app
+# steps for running app
 1-  [install meteor](https://www.meteor.com/install)<br />
-2 - install all package given blow
+2 - install all packages given blow
 # use packages
 1-angular<br />
 2-angularui:angular-ui-route<br />
