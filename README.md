@@ -1,4 +1,5 @@
-  # loginApp
+# loginApp
+  
 this is simple login, signup and forgot passsword app in angular-meteor.we use account for user login and signup. And account-password for 
 encrypt password.
 # step for run app
